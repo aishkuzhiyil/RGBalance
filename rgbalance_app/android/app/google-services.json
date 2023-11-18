@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995613809187",
+    "project_id": "rgbalance-750c3",
+    "storage_bucket": "rgbalance-750c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995613809187:android:6a3a3bcd3800840addef96",
+        "android_client_info": {
+          "package_name": "com.example.rgbalance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0qITA2-53hCJZISwLYvu57DV5Vx2TzoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
